@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETL_SQLSERVER", "Integration Services Project5\ETL_SQLSERVER.dtproj", "{DAB02E27-76D1-4A6B-832F-273E7C83A542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB02E27-76D1-4A6B-832F-273E7C83A542}.Development|Default.ActiveCfg = Development
+		{DAB02E27-76D1-4A6B-832F-273E7C83A542}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36901ED-C394-40A4-B51B-FC8184D2BE3D}
+	EndGlobalSection
+EndGlobal
